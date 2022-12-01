@@ -1,8 +1,2 @@
 #!/bin/bash
-echo "School" 
-<<<<<<< HEAD
-ALX School is so cool
-=======
-The school is now open
 The school is open
->>>>>>> update_script
